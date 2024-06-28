@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-class main {
+class sms {  
     static String[][] studentList = new String[50][6];
     static String[][] tempList = new String[50][6];
 
